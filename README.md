@@ -1,5 +1,5 @@
 # memorabilia
 ## 大事记
 
+## <a href="http://write.blog.csdn.net/postlist" target="_blank">Emir's memorabilia</a>
 
-## [Emir's memorabilia](https://github.com/swifterfit/memorabilia/blob/master/Emir.md?_blank)
