@@ -1,5 +1,14 @@
 # memorabilia
-## 大事记
 
-## <a href="https://github.com/swifterfit/memorabilia/blob/master/Emir.md" target="_blank">Emir's memorabilia</a>
+## 2017年08月28日:	领证， 结婚纪念日阴历七月初七
+
+## 2017年12月25日:	买了Bose qc35 二代耳机
+
+## 2018年01月01日凌晨1点30: 跨年，急性阑尾炎手术
+
+## 2018年04月09日: 恭喜燕姐成为阿里人
+
+## 2018年06月31日: 燕姐给父母买了个房
+
+## 2018年07月16日: 北京大暴雨
 
